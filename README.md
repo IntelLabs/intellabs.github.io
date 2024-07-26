@@ -1,1 +1,1 @@
-# il-opensource-template
+# Home for moved repos and their redirects
